@@ -32,7 +32,6 @@ __pycache__/
 /.helix/
 /.omp/
 /.opencode/
-/.vscode/
 /.mcp.json
 /opencode.json
 /.prowl/
@@ -51,3 +50,9 @@ __pycache__/
 # Developer scratch: local reports and working notes, never part of Ryoku.
 /local/
 .superpowers/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
