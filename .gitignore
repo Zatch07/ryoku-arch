@@ -32,7 +32,7 @@ __pycache__/
 /.helix/
 /.omp/
 /.opencode/
-/.vscode/
+temp_auto_push.bat
 /.mcp.json
 /opencode.json
 /.prowl/
@@ -67,3 +67,7 @@ __pycache__/
 .prowl/setup-applies.json
 .prowl-setup.lock
 # /prowl-agent: derived state
+.gitignore
+branch_structure.json
+config.bat
+node_modules
